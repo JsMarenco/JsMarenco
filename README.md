@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angel Marenco</h1>
 <h3 align="center">A passionate frontend developer from Nicaragua</h3>
 
-<p  align="center">
+<center>
   <h2 align="center">🛠 Languages and Tools</h2>
 
   | Skill/Tool    | knowledge |
@@ -22,7 +22,8 @@
   | Jest          | Medium    |
   | Figma         | Medium    |
 
-</p>
+</center>
+
 <p  align="center">
   <a href="https://github.com/jsmarenco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsmarenco&theme=buefy&show_icons=true" />
