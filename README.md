@@ -4,23 +4,14 @@
 <h2 align="center">🛠 Languages and Tools</h2>
 <center>
 
-| Skill/Tool    | knowledge |
-| ------------- | --------- |
-| Git           | High      |
-| Javascript    | High      |
-| ReactJs       | High      |
-| NextJs        | medium    |
-| Eslint        | High      |
-| Redux toolkit | Medium    |
-| Nodejs        | High      |
-| Typescript    | High      |
-| MongoDB       | High      |
-| Expressjs     | Medium    |
-| React router  | High      |
-| Material UI   | High      |
-| Sass          | Medium    |
-| Jest          | Medium    |
-| Figma         | Medium    |
+| Languages  | Support  | Testing | Frameworks | Software        | Libraries    | Databases | Soft Skills   |
+| ---------- | -------- | ------- | ---------- | --------------- | ------------ | --------- | ------------- |
+| JavaScript | Git      | Jest    | ReactJs    | Figma           | Redux        | MongoDB   | Collaboration |
+| TypeScript | Eslint   |         | NextJs     | Vscode          | React        |           | Adaptability  |
+|            | Prettier |         | ExpressJs  | MongoDB Compass | Material UI  |           | Communication |
+|            |          |         |            | Postman         | Sass         |           |               |
+|            |          |         |            |                 | Jest         |           |               |
+|            |          |         |            |                 | React router |           |               |
 
 </center>
 
