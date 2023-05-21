@@ -18,8 +18,6 @@
 | Adaptability  | Gaming      |
 | Communication | Music       |
 | Networking    | Photography |
-|               |             |
-|               |             |
 
 <p  align="center">
   <a href="https://github.com/jsmarenco">
