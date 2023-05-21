@@ -2,18 +2,24 @@
 <h3 align="center">A passionate frontend developer from Nicaragua</h3>
 
 <h2 align="center">🛠 Languages and Tools</h2>
-<center>
 
-| Languages  | Support  | Testing | Frameworks | Software        | Libraries    | Databases | Soft Skills   |
-| ---------- | -------- | ------- | ---------- | --------------- | ------------ | --------- | ------------- |
-| JavaScript | Git      | Jest    | ReactJs    | Figma           | Redux        | MongoDB   | Collaboration |
-| TypeScript | Eslint   |         | NextJs     | Vscode          | React        |           | Adaptability  |
-|            | Prettier |         | ExpressJs  | MongoDB Compass | Material UI  |           | Communication |
-|            |          |         |            | Postman         | Sass         |           |               |
-|            |          |         |            |                 | Jest         |           |               |
-|            |          |         |            |                 | React router |           |               |
+| Languages  | Support  | Testing | Frameworks | Software        | Libraries    | Databases |
+| ---------- | -------- | ------- | ---------- | --------------- | ------------ | --------- |
+| JavaScript | Git      | Jest    | ReactJs    | Figma           | Redux        | MongoDB   |
+| TypeScript | Eslint   |         | NextJs     | Vscode          | React        |           |
+|            | Prettier |         | ExpressJs  | MongoDB Compass | Material UI  |           |
+|            |          |         |            | Postman         | Sass         |           |
+|            |          |         |            |                 | Jest         |           |
+|            |          |         |            |                 | React router |           |
 
-</center>
+| Soft Skills   | Hobbies     |
+| ------------- | ----------- |
+| Collaboration | Cycling     |
+| Adaptability  | Gaming      |
+| Communication | Music       |
+| Networking    | Photography |
+|               |             |
+|               |             |
 
 <p  align="center">
   <a href="https://github.com/jsmarenco">
@@ -26,6 +32,6 @@
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jsmarenco-dev.web.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsmarenco)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jsmarenco)
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jsmarenco-dev.web.app/)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsmarenco)
+- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jsmarenco)
