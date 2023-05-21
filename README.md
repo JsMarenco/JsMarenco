@@ -6,11 +6,9 @@
 | Languages  | Support  | Testing | Frameworks | Software        | Libraries    | Databases |
 | ---------- | -------- | ------- | ---------- | --------------- | ------------ | --------- |
 | JavaScript | Git      | Jest    | ReactJs    | Figma           | Redux        | MongoDB   |
-| TypeScript | Eslint   |         | NextJs     | Vscode          | React        |           |
+| TypeScript | Eslint   |         | NextJs     | Vscode          | React router |           |
 |            | Prettier |         | ExpressJs  | MongoDB Compass | Material UI  |           |
 |            |          |         |            | Postman         | Sass         |           |
-|            |          |         |            |                 | Jest         |           |
-|            |          |         |            |                 | React router |           |
 
 | Soft Skills   | Hobbies     |
 | ------------- | ----------- |
