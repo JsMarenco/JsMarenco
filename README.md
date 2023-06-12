@@ -3,12 +3,16 @@
 
 <h2 align="center">🛠 Languages and Tools</h2>
 
-| Languages  | Support  | Testing | Frameworks | Software        | Libraries    | Databases |
-| ---------- | -------- | ------- | ---------- | --------------- | ------------ | --------- |
-| JavaScript | Git      | Jest    | ReactJs    | Figma           | Redux        | MongoDB   |
-| TypeScript | Eslint   |         | NextJs     | Vscode          | React router |           |
-|            | Prettier |         | ExpressJs  | MongoDB Compass | Material UI  |           |
-|            |          |         |            | Postman         | Sass         |           |
+| Languages  | Support      | Testing   | Frameworks | Software        | Libraries    | Databases | Learning   |
+| ---------- | ------------ | --------- | ---------- | --------------- | ------------ | --------- | ---------- |
+| JavaScript | Git          | Jest      | ExpressJs  | Figma           | Redux        | MongoDB   | Python     |
+| Html       | Eslint       | Supertest | NextJs     | Vscode          | React router |           | PostgreSQL |
+| Css        | Prettier     |           |            | MongoDB Compass | Material UI  |           | Cypress    |
+|            | Typescript   |           |            | Postman         | Sass         |           | Docker     |
+|            | Editorconfig |           |            | Jira            | React query  |           |            |
+|            |              |           |            | Trello          | GraphQl      |           |            |
+|            |              |           |            | Slack           | ReactJs      |           |            |
+|            |              |           |            |                 | Tailwind     |           |            |
 
 | Soft Skills   | Hobbies     |
 | ------------- | ----------- |
@@ -19,8 +23,8 @@
 
 <p  align="center">
   <a href="https://github.com/jsmarenco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsmarenco&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsmarenco&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsmarenco&theme=highcontrast&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsmarenco&theme=highcontrast&layout=compact" />
   </a>
 </p>
 
